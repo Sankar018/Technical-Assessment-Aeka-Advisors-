@@ -12,10 +12,10 @@ This project is built using **Create React App** and focuses on frontend fundame
 ## 🚀 Live Demo
 
 🌐 **Hosted Application (Netlify):**  
-PASTE YOUR NETLIFY LINK HERE  
+https://sankar-creativeshowcase.netlify.app/  
 
 📁 **GitHub Repository:**  
-PASTE YOUR GITHUB REPO LINK HERE  
+https://github.com/Sankar018/Technical-Assessment-Aeka-Advisors  
 
 ---
 
@@ -78,7 +78,7 @@ src/
 
 ### 1️⃣ Clone the repository
 
-git clone YOUR_GITHUB_REPO_LINK
+git clone https://github.com/Sankar018/Technical-Assessment-Aeka-Advisors
 
 ### 2️⃣ Navigate to the project directory
 cd creative-showcase
