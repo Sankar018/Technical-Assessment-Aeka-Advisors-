@@ -83,8 +83,8 @@ Weekend Getaway Ranker/
 
 ### 1️⃣ Clone the Repository
 
-git clone <your-github-repo-link>
-cd weekend-getaway-ranker
+git clone https://github.com/Sankar018/Technical-Assessment-Aeka-Advisors
+cd "Task 4/Weekend Getway Ranker"
 
 ### 2️⃣ Install Dependencies
 pip install -r requirements.txt
