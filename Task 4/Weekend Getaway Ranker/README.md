@@ -84,6 +84,7 @@ Weekend Getaway Ranker/
 ### 1️⃣ Clone the Repository
 
 git clone https://github.com/Sankar018/Technical-Assessment-Aeka-Advisors
+<br>
 cd "Task 4/Weekend Getway Ranker"
 
 ### 2️⃣ Install Dependencies
